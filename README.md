@@ -1,8 +1,4 @@
-# Eteration
-
-## Description
-
-Eteration Case Study
+# Shopping-Cart
 
 ## Getting Started
 
